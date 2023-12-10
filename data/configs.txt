@@ -1,4 +1,4 @@
-appId~ESP-CAM_MJPEG~99~~na
+appId~birr~99~~na
 ST_SSID~~99~~na
 fsPort~21~99~~na
 fsServer~~99~~na
